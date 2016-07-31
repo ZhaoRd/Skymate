@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C0768E2C-1336-4986-AFDD-D89D5D6EA24E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skymate.Log4NetForAbp", "src\Skymate.Log4NetForAbp\Skymate.Log4NetForAbp.csproj", "{951E2603-C3F9-4C1D-8ECE-DDB8CB0F2B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951E2603-C3F9-4C1D-8ECE-DDB8CB0F2B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951E2603-C3F9-4C1D-8ECE-DDB8CB0F2B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951E2603-C3F9-4C1D-8ECE-DDB8CB0F2B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951E2603-C3F9-4C1D-8ECE-DDB8CB0F2B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{951E2603-C3F9-4C1D-8ECE-DDB8CB0F2B57} = {C0768E2C-1336-4986-AFDD-D89D5D6EA24E}
+	EndGlobalSection
+EndGlobal
